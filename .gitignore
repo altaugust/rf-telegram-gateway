@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.wav
+audio_monitor
+.vscode/
+EOF
+# Ignore binary and temporary files
